@@ -1,6 +1,6 @@
 # SOInapp
 
-One of the great things about owning a mobile app is the variety of available methods to earn money from app, namely paid, free with ads, and in-app purchases. And Apple In-app purchase tutorial is our main focus today.
+One of the great things about owning a mobile app is the variety of available methods to earn money from app, namely paid, free with ads, and in-app purchases.
 
 Nowadays, many mobile applications provide an option to get extra content by purchasing them through the app. For example, Mobile Game – Subway Surfers – provides gems from in-app purchases to get more lives.
 
